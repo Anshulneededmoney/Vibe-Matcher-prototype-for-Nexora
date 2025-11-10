@@ -44,7 +44,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Running the Notebook
+## Running the Notebook
 
 Open notebooks/runner.ipynb in VS Code or Jupyter
 
@@ -52,12 +52,13 @@ Run cells from top to bottom
 
 Results include product embeddings, top-3 matches per query, evaluation table, and latency plot
 
-Example Queries
+## Example Queries
 Query	Top Match
 energetic urban chic	Streetwear Hoodie
 warm cozy minimal	Cozy Knit Sweater
 traditional festive elegance	Elegant Silk Saree
-Improvements
+
+## Improvements
 
 Combine description and tags for richer embeddings
 
